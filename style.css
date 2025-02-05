@@ -1,0 +1,98 @@
+body {
+    background-color:rgb(252, 138, 138);
+}
+
+/* The image is floating to the left. */
+
+img {
+    float: left;
+}
+
+.cards {
+    border: 4px solid blue;
+    display: flow-root;
+}
+
+.card {
+    border: 3px solid maroon;
+}
+
+/* The image is floating to the right. */
+
+.cards-2 {
+    border: 4px solid black;
+    display: flow-root;
+    margin-top: 30px;
+}
+
+.card- {
+    border: 3px solid purple;
+}
+
+.img-1 {
+    float: right;
+}
+
+/* The image is floating to the right and we have set the clear property to the right. */
+
+.cards-3 {
+    border: 4px solid black;
+    display: flow-root;
+    margin-top: 30px;
+}
+
+.clear- {
+    clear: right;
+    background-color: rgb(43, 226, 67);
+}
+
+.cardz {
+    border: 3px solid purple;
+}
+
+.img-2 {
+    float: right;
+}
+
+/* The image is floating to the left and we have set the clear property to the right. */
+
+
+.cards-4 {
+    border: 4px solid black;
+    display: flow-root;
+    margin-top: 30px;
+}
+
+.clear-- {
+    clear: right;
+    background-color: rgb(43, 226, 67);
+}
+
+.cardzz {
+    border: 3px solid purple;
+}
+
+.img-3 {
+    float: left;
+}
+
+/* The image is floating to the right and we have set the clear property to both. */
+
+.cards-5 {
+    border: 4px solid black;
+    display: flow-root;
+    margin-top: 30px;
+}
+
+.clear--- {
+    clear: both;
+    background-color: rgb(43, 226, 67);
+}
+
+.cardzzz {
+    border: 3px solid purple;
+}
+
+.img-4 {
+    float: left;
+}
